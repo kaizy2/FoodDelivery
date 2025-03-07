@@ -9,155 +9,155 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Food
 build_property.RootNamespace = Food
-build_property.ProjectDir = C:\Users\NAM\Downloads\Foode-Tin\Food\
+build_property.ProjectDir = D:\Food\FoodDelivery\src\Food\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\NAM\Downloads\Foode-Tin\Food
+build_property.MSBuildProjectDirectory = D:\Food\FoodDelivery\src\Food
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Admin/Category.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Admin/Category.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Admin/Contacts.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Admin/Contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29udGFjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Admin/CreateCategory.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Admin/CreateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Admin/CreateProduct.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Admin/CreateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ3JlYXRlUHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Admin/Dashboard.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Admin/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Admin/EditCategory.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Admin/EditCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdENhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Admin/EditProduct.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Admin/EditProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Admin/ManageOrders.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Admin/ManageOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlT3JkZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Admin/ManageUsers.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Admin/ManageUsers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Admin/ViewProduct.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Admin/ViewProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVmlld1Byb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Error.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Index.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Privacy.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Shared/_AdminLayout.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/About.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/AccessDenied.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQWNjZXNzRGVuaWVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/CancelPayment.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/CancelPayment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ2FuY2VsUGF5bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/Carts.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/Carts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ2FydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/ChangePassword.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/CompletePayment.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/CompletePayment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ29tcGxldGVQYXltZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/ConfirmEmail.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ29uZmlybUVtYWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/Contact.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/Default.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/ForgotPassword.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRm9yZ290UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/Login.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/Logout.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/Menu.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/Profile.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/Registration.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUmVnaXN0cmF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/Shared/_LayoutForMain.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/Shared/_LayoutForMain.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcU2hhcmVkXF9MYXlvdXRGb3JNYWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/Shared/_LayoutUser.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/Shared/_LayoutUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Users/UpdateProfile.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Users/UpdateProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXBkYXRlUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/_ViewImports.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/_ViewStart.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/NAM/Downloads/Foode-Tin/Food/Pages/Shared/_Layout.cshtml]
+[D:/Food/FoodDelivery/src/Food/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ysymw6lz3r
