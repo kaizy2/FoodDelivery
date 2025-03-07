@@ -1,0 +1,99 @@
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\Sem7\Food\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Sem7\Food\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Sem7\Food\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Sem7\Food\Repositories\bin\Debug\net8.0\DataAccess.dll
+D:\Sem7\Food\Repositories\bin\Debug\net8.0\Models.dll
+D:\Sem7\Food\Repositories\bin\Debug\net8.0\DataAccess.pdb
+D:\Sem7\Food\Repositories\bin\Debug\net8.0\Models.pdb
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\Repositories.csproj.CopyComplete
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\Sem7\Food\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+D:\Sem7\Food\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\bin\Debug\net8.0\Models.dll
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\bin\Debug\net8.0\Models.pdb
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\Repositories.csproj.CopyComplete
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\Truong Van Tin\source\repos\Foode\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+E:\PRN221_Project\Repositories\bin\Debug\net8.0\Repositories.deps.json
+E:\PRN221_Project\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+E:\PRN221_Project\Repositories\bin\Debug\net8.0\Repositories.dll
+E:\PRN221_Project\Repositories\bin\Debug\net8.0\Repositories.pdb
+E:\PRN221_Project\Repositories\bin\Debug\net8.0\DataAccess.dll
+E:\PRN221_Project\Repositories\bin\Debug\net8.0\Models.dll
+E:\PRN221_Project\Repositories\bin\Debug\net8.0\DataAccess.pdb
+E:\PRN221_Project\Repositories\bin\Debug\net8.0\Models.pdb
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\Repositories.dll
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\Repositories.pdb
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+E:\PRN221_Project\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\Sem7\Merge\Foode\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Sem7\Merge\Foode\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+D:\Sem7\Merge\Foode\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Sem7\Merge\Foode\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Sem7\Merge\Foode\Repositories\bin\Debug\net8.0\DataAccess.dll
+D:\Sem7\Merge\Foode\Repositories\bin\Debug\net8.0\Models.dll
+D:\Sem7\Merge\Foode\Repositories\bin\Debug\net8.0\DataAccess.pdb
+D:\Sem7\Merge\Foode\Repositories\bin\Debug\net8.0\Models.pdb
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\Repositories.csproj.CopyComplete
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+D:\Sem7\Merge\Foode\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\bin\Debug\net8.0\DataAccess.dll
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\bin\Debug\net8.0\Models.dll
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\bin\Debug\net8.0\Models.pdb
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\NAM\Downloads\Foode-Tin\Repositories\obj\Debug\net8.0\ref\Repositories.dll

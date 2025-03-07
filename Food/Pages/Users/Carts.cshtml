@@ -1,0 +1,123 @@
+﻿@page
+@model Food.Pages.Users.CartModel
+@{
+    Layout = "/Pages/Users/Shared/_LayoutUser.cshtml";
+    ViewBag.Title = "Your Cart";
+}
+
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container text-center">
+            <h2>Your Cart</h2>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        @if (Model.Carts.Count == 0)
+                        {
+                            <div class="alert alert-info text-center">
+                                <strong>Your cart is empty.</strong>
+                                <p>Please browse our products and add some to your cart!</p>
+                            </div>
+                        }
+                        else
+                        {
+                            <table class="table table-striped table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Select</th>
+                                        <th>Image</th>
+                                        <th>Name</th>
+                                        <th>Price</th>
+                                        <th>Quantity</th>
+                                        <th>Total</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var cartItem in Model.Carts)
+                                    {
+                                        <tr>
+                                            <td>
+                                                <input type="checkbox" class="selectItem"
+                                                       data-productid="@cartItem.Product.ProductId" />
+                                            </td>
+                                            <td><img src="@cartItem.Product.ImageUrl" alt="@cartItem.Product.Name" class="img-fluid" style="max-width: 100px;" /></td>
+                                            <td>@cartItem.Product.Name</td>
+                                            <td>@cartItem.Product.Price.ToString("C")</td>
+                                            <td>
+                                                <div class="d-flex justify-content-between align-items-center">
+                                                    <form method="post" asp-page-handler="UpdateQuantity" asp-route-productId="@cartItem.Product.ProductId">
+                                                        <button type="submit" class="btn btn-sm btn-danger" name="quantity" value="@(cartItem.Quantity - 1)">-</button>
+                                                    </form>
+                                                    <span>@cartItem.Quantity</span>
+                                                    <form method="post" asp-page-handler="UpdateQuantity" asp-route-productId="@cartItem.Product.ProductId">
+                                                        <button type="submit" class="btn btn-sm btn-success" name="quantity" value="@(cartItem.Quantity + 1)">+</button>
+                                                    </form>
+                                                </div>
+                                            </td>
+                                            <td>$@(cartItem.Product.Price * cartItem.Quantity)</td>
+                                            <td>
+                                                <form method="post" asp-page-handler="DeleteItem" asp-route-productId="@cartItem.ProductId">
+                                                    <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                                </form>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+
+                            <div class="d-flex justify-content-between mt-3">
+                                @if (Model.UserProfile.Address == null || Model.UserProfile.Mobile == null)
+                                {
+                                    <div class="alert alert-warning">
+                                        <strong>Notice:</strong> Please update your shipping address and phone number before proceeding to checkout.
+                                    </div>
+                                    <button class="btn btn-success" disabled>Proceed to Checkout</button>
+                                    <a href="/Users/UpdateProfile" class="btn btn-info mt-2">Update Profile</a>
+                                }
+                                else
+                                {
+                                    <div>
+                                        <h5><strong>Shipping Address:</strong> @Model.UserProfile.Address</h5>
+                                        <h5><strong>Phone Number:</strong> @Model.UserProfile.Mobile</h5>
+                                    </div>
+                                    <form method="post" asp-page-handler="ProceedToPayment" id="paymentForm">
+                                        <!-- Trường ẩn lưu trữ danh sách các sản phẩm đã chọn -->
+                                        <input type="hidden" id="selectedItems" name="selectedItems" />
+                                        <button type="submit" class="btn btn-success">Proceed to Checkout</button>
+                                    </form>
+                                }
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $(".selectItem").change(function () {
+                // Cập nhật danh sách các sản phẩm đã chọn khi có thay đổi
+                const selectedItems = Array.from($(".selectItem:checked"))
+                    .map(item => $(item).data("productid"))
+                    .join(",");
+                $("#selectedItems").val(selectedItems); // Đặt giá trị cho trường ẩn
+            });
+
+            // Disable other checkboxes when only one item is selected (if needed)
+            $(".selectItem").change(function () {
+                if ($(".selectItem:checked").length === 1) {
+                    $(".selectItem").not(":checked").prop("disabled", true);
+                } else {
+                    $(".selectItem").prop("disabled", false);
+                }
+            });
+        });
+    </script>
+}
