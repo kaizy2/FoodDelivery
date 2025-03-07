@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Food.csproj": {}
+    "D:\\Food\\Food\\Food.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\DataAccess.csproj": {
+    "D:\\Food\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Food\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Food\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\NAM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\obj\\",
+        "outputPath": "D:\\Food\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Models.csproj"
+              "D:\\Food\\Models\\Models.csproj": {
+                "projectPath": "D:\\Food\\Models\\Models.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Food.csproj": {
+    "D:\\Food\\Food\\Food.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Food.csproj",
+        "projectUniqueName": "D:\\Food\\Food\\Food.csproj",
         "projectName": "Food",
-        "projectPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Food.csproj",
+        "projectPath": "D:\\Food\\Food\\Food.csproj",
         "packagesPath": "C:\\Users\\NAM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\obj\\",
+        "outputPath": "D:\\Food\\Food\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,11 +124,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Models.csproj"
+              "D:\\Food\\Models\\Models.csproj": {
+                "projectPath": "D:\\Food\\Models\\Models.csproj"
               },
-              "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\Repositories.csproj"
+              "D:\\Food\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\Food\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -208,14 +208,14 @@
         }
       }
     },
-    "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Models.csproj": {
+    "D:\\Food\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\Food\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Models.csproj",
+        "projectPath": "D:\\Food\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\NAM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\obj\\",
+        "outputPath": "D:\\Food\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -299,14 +299,14 @@
         }
       }
     },
-    "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\Repositories.csproj": {
+    "D:\\Food\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\Food\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\Food\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\NAM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\obj\\",
+        "outputPath": "D:\\Food\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -324,11 +324,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\DataAccess.csproj"
+              "D:\\Food\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Food\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Models.csproj"
+              "D:\\Food\\Models\\Models.csproj": {
+                "projectPath": "D:\\Food\\Models\\Models.csproj"
               }
             }
           }
