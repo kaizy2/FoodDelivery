@@ -1,0 +1,19 @@
+﻿@page
+@model Food.Pages.Users.CartModel
+@{
+    ViewBag.Title = "Payment Completed";
+}
+
+<section class="container mt-5">
+    <div class="alert alert-success text-center">
+        <h2>Payment Successful</h2>
+        <p>Your payment has been successfully completed. Thank you for your purchase!</p>
+        <a href="/Users/Profile" class="btn btn-primary">Go to Profile</a>
+    </div>
+</section>
+
+@* Automatically call the CompletePayment method in the CartModel *@
+@{
+    var orderIds = HttpContext.Request.Query["orderIds"];
+    Model.CompletePayment(orderIds).Wait();
+}

@@ -1,0 +1,64 @@
+﻿@page "{id:int}"
+@model Food.Pages.Admin.Product.EditProductModel
+@{
+    ViewData["Title"] = "Edit Product";
+    Layout = "_AdminLayout";
+}
+<div class="container mt-5">
+    <h2 class="text-uppercase">Edit Product</h2>
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="card">
+                <div class="card-header">Product</div>
+                <div class="card-body">
+                    <form method="post" enctype="multipart/form-data">
+                        <input type="hidden" asp-for="Product.ProductId" />
+
+                        <div class="form-group">
+                            <label for="ProductName">Product Name</label>
+                            <input type="text" class="form-control" id="ProductName" asp-for="Product.Name" placeholder="Enter Product Name" />
+                        </div>
+
+                        <div class="form-group">
+                            <label for="ProductDescription">Product Description</label>
+                            <textarea class="form-control" id="ProductDescription" asp-for="Product.Description" placeholder="Enter Product Description"></textarea>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="ProductPrice">Product Price($)</label>
+                            <input type="text" class="form-control" id="ProductPrice" asp-for="Product.Price" placeholder="Enter Product Price" />
+                        </div>
+
+                        <div class="form-group">
+                            <label for="ProductQuantity">Product Quantity</label>
+                            <input type="number" class="form-control" id="ProductQuantity" asp-for="Product.Quantity" placeholder="Enter Product Quantity" />
+                        </div>
+
+                        <div class="form-group">
+                            <label for="ProductImage">Product Image</label>
+                            <input type="file" class="form-control-file" id="ProductImage" name="ProductImage" />
+                        </div>
+
+                        <div class="form-group">
+                            <label for="ProductCategory">Product Category</label>
+                            <select class="form-control" id="ProductCategory" asp-for="Product.CategoryId" asp-items="@(new SelectList(Model.CategoriesList, "CategoryId", "Name"))">
+                                <option value="">Select Category</option>
+                            </select>
+                        </div>
+
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" id="IsActive" asp-for="Product.IsActive" />
+                            <label class="form-check-label" for="IsActive">Is Active</label>
+                        </div>
+
+                        <!-- Nút Update -->
+                        <button type="submit" asp-page-handler="Upload" class="btn btn-primary mt-3">Update</button>
+                        <!-- Nút Cancel -->
+                        <a asp-page="./ViewProduct" class="btn btn-secondary mt-3">Cancel</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

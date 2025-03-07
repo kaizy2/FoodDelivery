@@ -1,0 +1,52 @@
+﻿@page
+@model Foodie.Pages.Users.ContactModel
+@{
+    Layout = "/Pages/Users/Shared/_LayoutUser.cshtml";
+}
+
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h2>Send Your Query</h2>
+        </div>
+        <div class="alert @Model.MessageClass" style="display: @(string.IsNullOrEmpty(Model.Message) ? "none" : "block")">
+            @Model.Message
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <form method="post">
+                    <div class="form-group">
+                        <label for="Name">Your Name</label>
+                        <input type="text" class="form-control" id="Name" name="Contact.Name" value="@Model.Contact.Name" readonly />
+                    </div>
+                    <div class="form-group">
+                        <label for="Email">Your Email</label>
+                        <input type="text" class="form-control" id="Email" name="Contact.Email" value="@Model.Contact.Email" readonly />
+                    </div>
+                    <div class="form-group">
+                        <label for="Subject">Subject</label>
+                        <input type="text" class="form-control" id="Subject" name="Contact.Subject" value="@Model.Contact.Subject"
+                               oninput="clearError('SubjectError', this, /.+/)" />
+                        <span class="text-danger" id="SubjectError">@Model.SubjectError</span>
+                    </div>
+                    <div class="form-group">
+                        <label for="Message">Message</label>
+                        <textarea class="form-control" id="Message" name="Contact.Message"
+                                  oninput="clearError('MessageError', this, /.+/)">@Model.Contact.Message</textarea>
+                        <span class="text-danger" id="MessageError">@Model.MessageError</span>
+                    </div>
+                    <button type="submit" class="btn btn-warning rounded-pill pl-4 pr-4 text-white">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    function clearError(errorId, inputElement, regex = /.+/) {
+        if (regex.test(inputElement.value.trim())) {
+            document.getElementById(errorId).textContent = '';
+        }
+    }
+</script>
