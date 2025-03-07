@@ -1,269 +1,277 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\",
+  "WorkspaceRootPath": "D:\\Food\\FoodDelivery\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\default.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\default.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|c:\\users\\nam\\downloads\\foode-tin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|c:\\users\\nam\\downloads\\foode-tin\\models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\carts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\carts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\completepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\completepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\signalrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\signalrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|c:\\users\\nam\\downloads\\foode-tin\\models\\migrations\\20250114041925_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\migrations\\20250114041925_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|c:\\users\\nam\\downloads\\foode-tin\\models\\fooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\fooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|c:\\users\\nam\\downloads\\foode-tin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|c:\\users\\nam\\downloads\\foode-tin\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|c:\\users\\nam\\downloads\\foode-tin\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|c:\\users\\nam\\downloads\\foode-tin\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\completepayment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\completepayment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\carts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\carts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\cancelpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\cancelpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\manageorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\manageorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\contacts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\contacts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\users\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|c:\\users\\nam\\downloads\\foode-tin\\repositories\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|c:\\users\\nam\\downloads\\foode-tin\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\editcategory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\editcategory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|c:\\users\\nam\\downloads\\foode-tin\\dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|c:\\users\\nam\\downloads\\foode-tin\\dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|c:\\users\\nam\\downloads\\foode-tin\\dataaccess\\paymentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\paymentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|c:\\users\\nam\\downloads\\foode-tin\\dataaccess\\contactdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\contactdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|c:\\users\\nam\\downloads\\foode-tin\\dataaccess\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|c:\\users\\nam\\downloads\\foode-tin\\dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|c:\\users\\nam\\downloads\\foode-tin\\dataaccess\\singletonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|d:\\food\\fooddelivery\\src\\dataaccess\\singletonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\singletonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|c:\\users\\nam\\downloads\\foode-tin\\dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\default.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\default.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|d:\\food\\fooddelivery\\src\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|d:\\food\\fooddelivery\\src\\models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\carts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\carts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\completepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\completepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\signalrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\signalrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|d:\\food\\fooddelivery\\src\\models\\migrations\\20250114041925_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\migrations\\20250114041925_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|d:\\food\\fooddelivery\\src\\models\\fooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\fooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|d:\\food\\fooddelivery\\src\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|d:\\food\\fooddelivery\\src\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|d:\\food\\fooddelivery\\src\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|d:\\food\\fooddelivery\\src\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\completepayment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\completepayment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\carts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\carts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\cancelpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\cancelpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\manageorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\manageorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\contacts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\contacts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\users\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\users\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|d:\\food\\fooddelivery\\src\\repositories\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|d:\\food\\fooddelivery\\src\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\editcategory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\editcategory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|d:\\food\\fooddelivery\\src\\dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|d:\\food\\fooddelivery\\src\\dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|d:\\food\\fooddelivery\\src\\dataaccess\\paymentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\paymentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|d:\\food\\fooddelivery\\src\\dataaccess\\contactdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\contactdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|d:\\food\\fooddelivery\\src\\dataaccess\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\cartdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|d:\\food\\fooddelivery\\src\\dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|d:\\food\\fooddelivery\\src\\dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|c:\\users\\nam\\downloads\\foode-tin\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|d:\\food\\fooddelivery\\src\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|c:\\users\\nam\\downloads\\foode-tin\\models\\migrations\\fooddbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|d:\\food\\fooddelivery\\src\\models\\migrations\\fooddbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\migrations\\fooddbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\createproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\createproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\createproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|c:\\users\\nam\\downloads\\foode-tin\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|d:\\food\\fooddelivery\\src\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|c:\\users\\nam\\downloads\\foode-tin\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|d:\\food\\fooddelivery\\src\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\manageorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\manageorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\manageorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|c:\\users\\nam\\downloads\\foode-tin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|d:\\food\\fooddelivery\\src\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|c:\\users\\nam\\downloads\\foode-tin\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|d:\\food\\fooddelivery\\src\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|c:\\users\\nam\\downloads\\foode-tin\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|d:\\food\\fooddelivery\\src\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F30D8667-C5F1-4770-9B61-5AA7179E1EE4}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\admin\\manageusers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\admin\\manageusers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\manageusers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|c:\\users\\nam\\downloads\\foode-tin\\food\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\fooddelivery\\src\\food\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -274,320 +282,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 10,
-          "SelectedChildIndex": 54,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\appsettings.json",
-              "RelativeDocumentMoniker": "Food\\appsettings.json",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\appsettings.json",
-              "RelativeToolTip": "Food\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-14T04:17:48.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T13:57:49.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\appsettings.json",
-              "RelativeDocumentMoniker": "Models\\appsettings.json",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\appsettings.json",
-              "RelativeToolTip": "Models\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-14T04:08:43.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Contact.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Users\\Contact.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:11:10.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\libman.json",
-              "RelativeDocumentMoniker": "Food\\libman.json",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\libman.json",
-              "RelativeToolTip": "Food\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-07T13:35:18.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Program.cs",
-              "RelativeDocumentMoniker": "Food\\Program.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Program.cs",
-              "RelativeToolTip": "Food\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwEIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T21:02:12.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SignalRService.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\SignalRService.cs",
-              "RelativeDocumentMoniker": "Food\\SignalRService.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\SignalRService.cs",
-              "RelativeToolTip": "Food\\SignalRService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T13:34:56.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250114041925_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Migrations\\20250114041925_Initial.cs",
-              "RelativeDocumentMoniker": "Models\\Migrations\\20250114041925_Initial.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Migrations\\20250114041925_Initial.cs",
-              "RelativeToolTip": "Models\\Migrations\\20250114041925_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T04:19:25.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FoodDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\FoodDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\FoodDbContext.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\FoodDbContext.cs",
-              "RelativeToolTip": "Models\\FoodDbContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T04:18:43.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T10:39:21.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T10:43:02.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PaymentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\PaymentRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\PaymentRepository.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\PaymentRepository.cs",
-              "RelativeToolTip": "Repositories\\PaymentRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T13:34:25.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:03:43.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CompletePayment.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\CompletePayment.cshtml.cs",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\CompletePayment.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\CompletePayment.cshtml.cs",
-              "RelativeToolTip": "Food\\Pages\\Users\\CompletePayment.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T13:32:15.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CancelPayment.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\CancelPayment.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\CancelPayment.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\CancelPayment.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Users\\CancelPayment.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:29:38.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ViewProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\ViewProduct.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\ViewProduct.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\ViewProduct.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Admin\\ViewProduct.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T03:55:30.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Contact.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Contact.cshtml.cs",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Contact.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Contact.cshtml.cs",
-              "RelativeToolTip": "Food\\Pages\\Users\\Contact.cshtml.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAuwF0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T13:11:23.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ManageOrders.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\ManageOrders.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\ManageOrders.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\ManageOrders.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Admin\\ManageOrders.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T20:56:26.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "EditProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\EditProduct.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\EditProduct.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\EditProduct.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Admin\\EditProduct.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T03:57:09.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Contacts.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\Contacts.cshtml.cs",
-              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\Contacts.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\Contacts.cshtml.cs",
-              "RelativeToolTip": "Food\\Pages\\Admin\\Contacts.cshtml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T13:09:27.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CreateCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\CreateCategory.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\CreateCategory.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\CreateCategory.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Admin\\CreateCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T03:57:45.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CreateProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\CreateProduct.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\CreateProduct.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\CreateProduct.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Admin\\CreateProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-14T03:57:42.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\Dashboard.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Admin\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T11:02:18.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Category.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\Category.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\Category.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\Category.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Admin\\Category.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:15:23.289Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -602,76 +298,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Contacts.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\Contacts.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\Contacts.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\Contacts.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Admin\\Contacts.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Contact.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Contact.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Users\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwBgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:08:06.051Z",
+              "WhenOpened": "2025-03-07T13:11:10.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T10:57:10.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IContactRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\IContactRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IContactRepository.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\IContactRepository.cs",
-              "RelativeToolTip": "Repositories\\IContactRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T13:10:08.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ContactRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\ContactRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ContactRepository.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\ContactRepository.cs",
-              "RelativeToolTip": "Repositories\\ContactRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T13:10:09.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "EditCategory.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\EditCategory.cshtml.cs",
-              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\EditCategory.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\EditCategory.cshtml.cs",
-              "RelativeToolTip": "Food\\Pages\\Admin\\EditCategory.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T04:01:47.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 5,
               "Title": "SingletonBase.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\SingletonBase.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\DataAccess\\SingletonBase.cs",
               "RelativeDocumentMoniker": "DataAccess\\SingletonBase.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\SingletonBase.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\DataAccess\\SingletonBase.cs",
               "RelativeToolTip": "DataAccess\\SingletonBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -679,11 +323,359 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAOBvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T06:49:51.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\appsettings.json",
+              "RelativeDocumentMoniker": "Food\\appsettings.json",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\appsettings.json",
+              "RelativeToolTip": "Food\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T04:17:48.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:57:49.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Models\\appsettings.json",
+              "RelativeDocumentMoniker": "Models\\appsettings.json",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Models\\appsettings.json",
+              "RelativeToolTip": "Models\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T04:08:43.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\libman.json",
+              "RelativeDocumentMoniker": "Food\\libman.json",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\libman.json",
+              "RelativeToolTip": "Food\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T13:35:18.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Program.cs",
+              "RelativeDocumentMoniker": "Food\\Program.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Program.cs",
+              "RelativeToolTip": "Food\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwEIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:02:12.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignalRService.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\SignalRService.cs",
+              "RelativeDocumentMoniker": "Food\\SignalRService.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\SignalRService.cs",
+              "RelativeToolTip": "Food\\SignalRService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:34:56.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250114041925_Initial.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Models\\Migrations\\20250114041925_Initial.cs",
+              "RelativeDocumentMoniker": "Models\\Migrations\\20250114041925_Initial.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Models\\Migrations\\20250114041925_Initial.cs",
+              "RelativeToolTip": "Models\\Migrations\\20250114041925_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:19:25.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FoodDbContext.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Models\\FoodDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\FoodDbContext.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Models\\FoodDbContext.cs",
+              "RelativeToolTip": "Models\\FoodDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:18:43.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:39:21.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:43:02.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PaymentRepository.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:34:25.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:03:43.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CompletePayment.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\CompletePayment.cshtml.cs",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\CompletePayment.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\CompletePayment.cshtml.cs",
+              "RelativeToolTip": "Food\\Pages\\Users\\CompletePayment.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:32:15.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CancelPayment.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\CancelPayment.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\CancelPayment.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\CancelPayment.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Users\\CancelPayment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:29:38.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ViewProduct.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\ViewProduct.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\ViewProduct.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\ViewProduct.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Admin\\ViewProduct.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T03:55:30.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Contact.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Contact.cshtml.cs",
+              "RelativeToolTip": "Food\\Pages\\Users\\Contact.cshtml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:11:23.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ManageOrders.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\ManageOrders.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\ManageOrders.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\ManageOrders.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Admin\\ManageOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T20:56:26.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\EditProduct.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\EditProduct.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Admin\\EditProduct.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T03:57:09.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Contacts.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\Contacts.cshtml.cs",
+              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\Contacts.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\Contacts.cshtml.cs",
+              "RelativeToolTip": "Food\\Pages\\Admin\\Contacts.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:09:27.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateCategory.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\CreateCategory.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\CreateCategory.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\CreateCategory.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Admin\\CreateCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T03:57:45.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\CreateProduct.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\CreateProduct.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Admin\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T03:57:42.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T11:02:18.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\Category.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\Category.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\Category.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Admin\\Category.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:15:23.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\Contacts.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\Contacts.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Admin\\Contacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:08:06.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T10:57:10.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Repositories\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IContactRepository.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Repositories\\IContactRepository.cs",
+              "RelativeToolTip": "Repositories\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:10:08.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ContactRepository.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "Repositories\\ContactRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:10:09.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EditCategory.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\EditCategory.cshtml.cs",
+              "RelativeDocumentMoniker": "Food\\Pages\\Admin\\EditCategory.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\EditCategory.cshtml.cs",
+              "RelativeToolTip": "Food\\Pages\\Admin\\EditCategory.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:01:47.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "ProductDAO.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\ProductDAO.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\DataAccess\\ProductDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\ProductDAO.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\ProductDAO.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\DataAccess\\ProductDAO.cs",
               "RelativeToolTip": "DataAccess\\ProductDAO.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwDcAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -691,11 +683,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "CategoryDAO.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\CategoryDAO.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\DataAccess\\CategoryDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\CategoryDAO.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\CategoryDAO.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\DataAccess\\CategoryDAO.cs",
               "RelativeToolTip": "DataAccess\\CategoryDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -703,11 +695,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "CartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\CartRepository.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Repositories\\CartRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CartRepository.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\CartRepository.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Repositories\\CartRepository.cs",
               "RelativeToolTip": "Repositories\\CartRepository.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -715,11 +707,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "CartDAO.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\CartDAO.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\DataAccess\\CartDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\CartDAO.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\CartDAO.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\DataAccess\\CartDAO.cs",
               "RelativeToolTip": "DataAccess\\CartDAO.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAkwD0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -727,11 +719,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "FoodDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Migrations\\FoodDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Models\\Migrations\\FoodDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Models\\Migrations\\FoodDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Migrations\\FoodDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Models\\Migrations\\FoodDbContextModelSnapshot.cs",
               "RelativeToolTip": "Models\\Migrations\\FoodDbContextModelSnapshot.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAQwFcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -739,11 +731,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "CreateProduct.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\CreateProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\CreateProduct.cshtml.cs",
               "RelativeDocumentMoniker": "Food\\Pages\\Admin\\CreateProduct.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\CreateProduct.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\CreateProduct.cshtml.cs",
               "RelativeToolTip": "Food\\Pages\\Admin\\CreateProduct.cshtml.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -751,11 +743,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "EditCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\EditCategory.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\EditCategory.cshtml",
               "RelativeDocumentMoniker": "Food\\Pages\\Admin\\EditCategory.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\EditCategory.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\EditCategory.cshtml",
               "RelativeToolTip": "Food\\Pages\\Admin\\EditCategory.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -763,11 +755,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "Dashboard.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\Dashboard.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\Dashboard.cshtml.cs",
               "RelativeDocumentMoniker": "Food\\Pages\\Admin\\Dashboard.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\Dashboard.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\Dashboard.cshtml.cs",
               "RelativeToolTip": "Food\\Pages\\Admin\\Dashboard.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -775,11 +767,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "OrderDAO.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\OrderDAO.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\DataAccess\\OrderDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\OrderDAO.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\OrderDAO.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\DataAccess\\OrderDAO.cs",
               "RelativeToolTip": "DataAccess\\OrderDAO.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAA5wEAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -787,11 +779,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "UserDAO.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\UserDAO.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\DataAccess\\UserDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\UserDAO.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\UserDAO.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\DataAccess\\UserDAO.cs",
               "RelativeToolTip": "DataAccess\\UserDAO.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAkwEsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -799,11 +791,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Repositories\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Repositories\\IOrderRepository.cs",
               "RelativeToolTip": "Repositories\\IOrderRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -811,11 +803,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\IUserRepository.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Repositories\\IUserRepository.cs",
               "RelativeToolTip": "Repositories\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -823,11 +815,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "ManageOrders.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\ManageOrders.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\ManageOrders.cshtml.cs",
               "RelativeDocumentMoniker": "Food\\Pages\\Admin\\ManageOrders.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\ManageOrders.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\ManageOrders.cshtml.cs",
               "RelativeToolTip": "Food\\Pages\\Admin\\ManageOrders.cshtml.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAIwCsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -835,11 +827,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Order.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Order.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Models\\Order.cs",
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAA5wCcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -847,11 +839,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "ContactDAO.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\ContactDAO.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\DataAccess\\ContactDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\ContactDAO.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\ContactDAO.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\DataAccess\\ContactDAO.cs",
               "RelativeToolTip": "DataAccess\\ContactDAO.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -859,11 +851,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "PaymentDAO.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\PaymentDAO.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\DataAccess\\PaymentDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\PaymentDAO.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\DataAccess\\PaymentDAO.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\DataAccess\\PaymentDAO.cs",
               "RelativeToolTip": "DataAccess\\PaymentDAO.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -871,11 +863,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Product.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Models\\Product.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -883,11 +875,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -895,11 +887,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "ManageUsers.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\ManageUsers.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\ManageUsers.cshtml",
               "RelativeDocumentMoniker": "Food\\Pages\\Admin\\ManageUsers.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\ManageUsers.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\ManageUsers.cshtml",
               "RelativeToolTip": "Food\\Pages\\Admin\\ManageUsers.cshtml",
               "ViewState": "AgIAAJQAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -907,11 +899,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "ManageUsers.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\ManageUsers.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\ManageUsers.cshtml.cs",
               "RelativeDocumentMoniker": "Food\\Pages\\Admin\\ManageUsers.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Admin\\ManageUsers.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Admin\\ManageUsers.cshtml.cs",
               "RelativeToolTip": "Food\\Pages\\Admin\\ManageUsers.cshtml.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAzwB0AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -919,11 +911,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Food\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "Food\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -931,24 +923,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAOBvwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T06:49:51.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "Privacy.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Privacy.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Privacy.cshtml.cs",
               "RelativeDocumentMoniker": "Food\\Pages\\Privacy.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Privacy.cshtml.cs",
               "RelativeToolTip": "Food\\Pages\\Privacy.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -956,11 +935,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Food\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "Food\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -968,11 +947,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "script.js",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\wwwroot\\js\\script.js",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "Food\\wwwroot\\js\\script.js",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\wwwroot\\js\\script.js",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\wwwroot\\js\\script.js",
               "RelativeToolTip": "Food\\wwwroot\\js\\script.js",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -982,7 +961,7 @@
         },
         {
           "DockedWidth": 286,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -997,151 +976,165 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Menu.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Menu.cshtml.cs",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Menu.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Menu.cshtml.cs",
-              "RelativeToolTip": "Food\\Pages\\Users\\Menu.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:38:38.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Default.cshtml.cs",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Default.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Default.cshtml.cs",
-              "RelativeToolTip": "Food\\Pages\\Users\\Default.cshtml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwDcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:36:47.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Menu.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Menu.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Menu.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Users\\Menu.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:18:48.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Default.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Default.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Default.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Users\\Default.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:19:52.483Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Services\\PaymentService.cs",
-              "RelativeDocumentMoniker": "Food\\Services\\PaymentService.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Services\\PaymentService.cs",
-              "RelativeToolTip": "Food\\Services\\PaymentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T13:33:51.496Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\ChangePassword.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\ChangePassword.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Users\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:23:57.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\ConfirmEmail.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Users\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:23:56.958Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Carts.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Carts.cshtml.cs",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Carts.cshtml.cs",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Carts.cshtml.cs",
-              "RelativeToolTip": "Food\\Pages\\Users\\Carts.cshtml.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAlwJwAAAA1AAAAAAAAAA==",
+              "Title": "Default.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Default.cshtml.cs",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Default.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Default.cshtml.cs",
+              "RelativeToolTip": "Food\\Pages\\Users\\Default.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T13:31:04.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T14:36:47.852Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Menu.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Menu.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Users\\Menu.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:18:48.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Default.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Default.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Default.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Users\\Default.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:19:52.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Food\\Services\\PaymentService.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Food\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:33:51.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Carts.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Carts.cshtml.cs",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Carts.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Carts.cshtml.cs",
+              "RelativeToolTip": "Food\\Pages\\Users\\Carts.cshtml.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAlwJwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:31:04.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "CompletePayment.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\CompletePayment.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\CompletePayment.cshtml",
               "RelativeDocumentMoniker": "Food\\Pages\\Users\\CompletePayment.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\CompletePayment.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\CompletePayment.cshtml",
               "RelativeToolTip": "Food\\Pages\\Users\\CompletePayment.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:29:24.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T13:29:24.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Profile.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Profile.cshtml",
               "RelativeDocumentMoniker": "Food\\Pages\\Users\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Profile.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Profile.cshtml",
               "RelativeToolTip": "Food\\Pages\\Users\\Profile.cshtml",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:23:38.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T13:23:38.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_LayoutUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Shared\\_LayoutUser.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Shared\\_LayoutUser.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Shared\\_LayoutUser.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Users\\Shared\\_LayoutUser.cshtml",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:33:23.123Z",
-              "EditorCaption": ""
+              "DocumentIndex": 11,
+              "Title": "Menu.cshtml.cs",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Menu.cshtml.cs",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Menu.cshtml.cs",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Menu.cshtml.cs",
+              "RelativeToolTip": "Food\\Pages\\Users\\Menu.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:38:38.607Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "Carts.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Carts.cshtml",
-              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Carts.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\Carts.cshtml",
-              "RelativeToolTip": "Food\\Pages\\Users\\Carts.cshtml",
-              "ViewState": "AgIAAFgAAAAAAAAAAADwv3sAAAAAAAAAAAAAAA==",
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Users\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:27:52.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T13:33:23.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 28,
+              "Title": "Carts.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Carts.cshtml",
+              "RelativeDocumentMoniker": "Food\\Pages\\Users\\Carts.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\Carts.cshtml",
+              "RelativeToolTip": "Food\\Pages\\Users\\Carts.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv3sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T13:27:52.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\About.cshtml",
+              "DocumentMoniker": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\About.cshtml",
               "RelativeDocumentMoniker": "Food\\Pages\\Users\\About.cshtml",
-              "ToolTip": "C:\\Users\\NAM\\Downloads\\Foode-Tin\\Food\\Pages\\Users\\About.cshtml",
+              "ToolTip": "D:\\Food\\FoodDelivery\\src\\Food\\Pages\\Users\\About.cshtml",
               "RelativeToolTip": "Food\\Pages\\Users\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-07T13:22:14.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T13:22:14.562Z"
             }
           ]
         }
