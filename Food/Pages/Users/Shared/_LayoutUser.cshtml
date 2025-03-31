@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using System.Security.Claims
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -94,13 +96,15 @@
                                 </svg>
                             </a>
 
+                            <a href="/Users/Favorites">❤️</a>
+
                             <button class="btn my-2 my-sm-0 nav_search-btn" type="submit">
                                 <i class="fa fa-search" aria-hidden="true"></i>
                             </button>
 
                             @if (User.Identity.IsAuthenticated)
                             {
-                                <a href="/Users/Logout" class="order_online">Logout</a>
+                                <a href="/Users/Logout" class="order_online" onclick="clearFavoriteFoodsOnLogout()">Logout</a>
                             }
                             else
                             {
@@ -190,6 +194,13 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
 </body>
 </html>
+
+<script>
+    var userId = '@User.FindFirst(ClaimTypes.NameIdentifier)?.Value';
+    if (userId) {
+        localStorage.setItem("loggedInUserId", userId);
+    }
+</script>
 
 
 

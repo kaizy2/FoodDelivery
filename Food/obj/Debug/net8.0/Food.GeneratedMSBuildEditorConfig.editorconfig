@@ -9,155 +9,159 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Food
 build_property.RootNamespace = Food
-build_property.ProjectDir = D:\Food\Food\
+build_property.ProjectDir = D:\code\FoodDelivery\FoodDelivery\Food\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Food\Food
+build_property.MSBuildProjectDirectory = D:\code\FoodDelivery\FoodDelivery\Food
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Food/Food/Pages/Admin/Category.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Admin/Category.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Admin/Contacts.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Admin/Contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29udGFjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Admin/CreateCategory.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Admin/CreateCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Admin/CreateProduct.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Admin/CreateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ3JlYXRlUHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Admin/Dashboard.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Admin/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Admin/EditCategory.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Admin/EditCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdENhdGVnb3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Admin/EditProduct.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Admin/EditProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Admin/ManageOrders.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Admin/ManageOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlT3JkZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Admin/ManageUsers.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Admin/ManageUsers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Admin/ViewProduct.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Admin/ViewProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVmlld1Byb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Error.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Index.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Privacy.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Shared/_AdminLayout.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/About.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/AccessDenied.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQWNjZXNzRGVuaWVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/CancelPayment.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/CancelPayment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ2FuY2VsUGF5bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/Carts.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Carts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ2FydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/ChangePassword.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/CompletePayment.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/CompletePayment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ29tcGxldGVQYXltZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/ConfirmEmail.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ29uZmlybUVtYWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/Contact.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/Default.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/ForgotPassword.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Favorites.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRmF2b3JpdGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRm9yZ290UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/Login.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/Logout.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/Menu.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/Profile.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/Registration.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUmVnaXN0cmF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/Shared/_LayoutForMain.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Shared/_LayoutForMain.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcU2hhcmVkXF9MYXlvdXRGb3JNYWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/Shared/_LayoutUser.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/Shared/_LayoutUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Users/UpdateProfile.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Users/UpdateProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXBkYXRlUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/_ViewImports.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/_ViewStart.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Food/Food/Pages/Shared/_Layout.cshtml]
+[D:/code/FoodDelivery/FoodDelivery/Food/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ysymw6lz3r

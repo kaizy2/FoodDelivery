@@ -4618,19 +4618,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\NAM\\.nuget\\packages\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Food\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "D:\\code\\FoodDelivery\\FoodDelivery\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "D:\\Food\\Repositories\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\NAM\\.nuget\\packages\\",
-      "outputPath": "D:\\Food\\Repositories\\obj\\",
+      "projectPath": "D:\\code\\FoodDelivery\\FoodDelivery\\Repositories\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "D:\\code\\FoodDelivery\\FoodDelivery\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\NAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4645,11 +4645,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Food\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Food\\DataAccess\\DataAccess.csproj"
+            "D:\\code\\FoodDelivery\\FoodDelivery\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\code\\FoodDelivery\\FoodDelivery\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\Food\\Models\\Models.csproj": {
-              "projectPath": "D:\\Food\\Models\\Models.csproj"
+            "D:\\code\\FoodDelivery\\FoodDelivery\\Models\\Models.csproj": {
+              "projectPath": "D:\\code\\FoodDelivery\\FoodDelivery\\Models\\Models.csproj"
             }
           }
         }
@@ -4718,7 +4718,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
