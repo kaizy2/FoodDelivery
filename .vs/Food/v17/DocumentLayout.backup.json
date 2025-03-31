@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Food\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|d:\\food\\dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{614B335F-B5C9-416E-9762-E906DE8EFF0C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\food\\pages\\admin\\contacts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\pages\\admin\\contacts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|d:\\food\\food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{19EE3DFF-B8BB-45FE-A818-7DFD1153E57B}|Food\\Food.csproj|solutionrelative:food\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{346D48B7-DE42-4832-B8B3-E342164B3E06}|Models\\Models.csproj|d:\\food\\models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -338,7 +338,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 242,
-          "SelectedChildIndex": 179,
+          "SelectedChildIndex": 175,
           "Children": [
             {
               "$type": "Bookmark",
@@ -1060,20 +1060,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Food\\Food\\appsettings.json",
               "RelativeDocumentMoniker": "Food\\appsettings.json",
               "ToolTip": "D:\\Food\\Food\\appsettings.json",
               "RelativeToolTip": "Food\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-31T17:08:59.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Contacts.cshtml.cs",
               "DocumentMoniker": "D:\\Food\\Food\\Pages\\Admin\\Contacts.cshtml.cs",
               "RelativeDocumentMoniker": "Food\\Pages\\Admin\\Contacts.cshtml.cs",
@@ -1086,7 +1086,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ContactDAO.cs",
               "DocumentMoniker": "D:\\Food\\DataAccess\\ContactDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\ContactDAO.cs",
@@ -1099,7 +1099,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OrderDAO.cs",
               "DocumentMoniker": "D:\\Food\\DataAccess\\OrderDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\OrderDAO.cs",
@@ -1112,7 +1112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserDAO.cs",
               "DocumentMoniker": "D:\\Food\\DataAccess\\UserDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\UserDAO.cs",
