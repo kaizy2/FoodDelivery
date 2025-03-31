@@ -56,10 +56,14 @@ namespace DataAccess
         }
         public async Task<User> Login(string username, string password)
         {
+            // So sánh username và password với phân biệt chữ hoa chữ thường
             var user = await _context.Users
-                .FirstOrDefaultAsync(u => u.Username == username && u.Password == password);
-            return user; 
+                .Where(u => EF.Functions.Collate(u.Username, "Latin1_General_BIN") == username && u.Password == password)  // Sử dụng COLLATE phân biệt chữ hoa chữ thường
+                .FirstOrDefaultAsync();
+
+            return user;
         }
+
         public async Task<User> GetUserByEmail(string email)
         {
             var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == email);

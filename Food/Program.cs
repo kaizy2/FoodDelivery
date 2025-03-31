@@ -20,6 +20,11 @@ namespace Food
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             builder.Services.AddDbContext<FoodDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Food")));
+
+            builder.Services.AddScoped<ContactDAO>();
+            builder.Services.AddScoped<IContactRepository, ContactRepository>();
+
+
             // add Repository
             builder.Services.AddScoped<IUserRepository, UserRepository>();
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
@@ -71,7 +76,7 @@ namespace Food
                 // Cấu hình chuyển hướng mặc định đến trang Menu
                 endpoints.MapGet("/", context =>
                 {
-                    context.Response.Redirect("/Users/Default");
+                    context.Response.Redirect("/Users/Login");
                     return Task.CompletedTask;
                 });
             });
