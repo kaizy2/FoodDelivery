@@ -1,0 +1,24 @@
+﻿@page
+@model Food.Pages.Users.FavoritesModel
+@{
+    Layout = "/Pages/Users/Shared/_LayoutUser.cshtml";
+}
+
+<section class="food_section layout_padding">
+    <div class="container">
+        <div class="heading_container heading_center">
+            <h2>Your Favorite Foods ❤️</h2>
+        </div>
+
+        <div class="filters-content">
+            <div class="row grid" id="favoriteList">
+                <!-- Danh sách món yêu thích sẽ được render từ JavaScript -->
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="~/js/favorite.js"></script>
+<script>
+    displayFavoriteFoods();
+</script>

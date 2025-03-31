@@ -29,6 +29,7 @@
         <div class="filters-content">
             <div class="row grid">
                 @foreach (var product in Model.Products)
+
                 {
                     <div class="col-sm-6 col-lg-4 all category-@product.CategoryId">
                         <div class="box">
@@ -47,6 +48,30 @@
                                                 <i class="fa fa-shopping-cart"></i> <!-- Shopping cart icon -->
                                             </button>
                                         </form>
+
+                                        @if (User.Identity.IsAuthenticated) 
+{
+    <button id="fav-btn-@product.ProductId"
+            class="btn btn-outline-danger favorite-button"
+            data-id="@product.ProductId"
+            data-name="@product.Name"
+            data-image="@product.ImageUrl"
+            data-description="@product.Description"
+            data-price="@product.Price"
+            data-logged-in="true"
+            onclick="toggleFavorite(this)">
+        <i class="fa fa-heart"></i>
+    </button>
+}
+else
+{
+    <button class="btn btn-outline-danger favorite-button"
+            data-logged-in="false"
+            onclick="redirectToLogin()">
+        <i class="fa fa-heart"></i>
+    </button>
+}
+
                                     </div>
                                 </div>
                             </div>
@@ -58,7 +83,5 @@
     </div>
 </section>
 
-
-
-
-
+<!-- Thêm script xử lý Favorite -->
+<script src="~/js/favorite.js"></script>

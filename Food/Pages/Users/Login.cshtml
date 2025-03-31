@@ -58,4 +58,10 @@
     <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.4.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
     <script src="~/TemplateFiles/js/custom.js"></script>
+    <script>
+        var userId = '@User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value';
+        if (userId) {
+            localStorage.setItem("loggedInUserId", userId);
+        }
+    </script>
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Food\\Models\\Models.csproj": {}
+    "D:\\code\\FoodDelivery\\FoodDelivery\\Models\\Models.csproj": {}
   },
   "projects": {
-    "D:\\Food\\Models\\Models.csproj": {
+    "D:\\code\\FoodDelivery\\FoodDelivery\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Food\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\code\\FoodDelivery\\FoodDelivery\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\Food\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\NAM\\.nuget\\packages\\",
-        "outputPath": "D:\\Food\\Models\\obj\\",
+        "projectPath": "D:\\code\\FoodDelivery\\FoodDelivery\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\FoodDelivery\\FoodDelivery\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
