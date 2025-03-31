@@ -9,14 +9,13 @@ project.lock.json
 # Python cache files
 *.pyc
 
-# Visual Studio Code
-.vscode/
-
 # User-specific files
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+*.cache
+*.sln.ide
 
 # Build results
 [Dd]ebug/
@@ -29,9 +28,31 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+*/obj/
+*/bin/
 msbuild.log
 msbuild.err
 msbuild.wrn
 
 # Visual Studio cache
 .vs/
+.vscode/
+
+# File security
+*.key
+*.pfx
+*.cer
+*.publishsettings
+
+# Temporary resources
+*.tmp
+*.temp
+*.log
+
+# File for folder NuGet
+packages/
+
+# Binary files
+*.dll
+*.exe
+*.pdb
